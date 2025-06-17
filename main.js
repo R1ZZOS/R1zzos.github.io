@@ -7,7 +7,7 @@ const evaluaciones = {
   "2025-07-22": "Formación + Álgebra",
   "2025-07-23": "BD + Formación"
 };
-const startDate = DateTime.fromISO("2025-06-20");
+const startDate = DateTime.fromISO("2025-06-17");
 const endDate = DateTime.fromISO("2025-12-31");
 let estado = 'trabajo';
 let calendar = {};
